@@ -38,8 +38,7 @@ Superstore-Analytics/
 │   ├── Shipping_and_Fulfillment.sql
 │   └── Sub-category_Performance.sql
 │
-├── README.md                    # Project documentation
-└── .gitignore                   # Git ignore file
+└── README.md                    # Project documentation
 
 ```
 ---
