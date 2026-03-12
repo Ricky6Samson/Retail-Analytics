@@ -6,7 +6,7 @@ It covers everything from **data cleaning and Python analysis** to **SQL-based m
 The goal is to show how I approach analytics projects from both a **technical** and **business** perspective � producing insights that are **accurate, structured, and actionable**.  
 
 ---
-'''
+```
 Superstore-Analytics/
 │
 ├── data/
@@ -41,7 +41,7 @@ Superstore-Analytics/
 ├── README.md                    # Project documentation
 └── .gitignore                   # Git ignore file
 
-'''
+```
 ---
 
 ## Workflow  
