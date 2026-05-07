@@ -145,7 +145,7 @@ Interactive dashboards visualize business insights:
 |----------|------------|
 | **Programming** | Python, Jupyter Notebook |
 | **Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Database** | SQL Server / SQLite |
+| **Database** | SQL Server |
 | **Visualization** | Excel, Power BI |
 | **Dataset** | Retail / Superstore Dataset |
 
